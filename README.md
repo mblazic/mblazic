@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+### My name is Marko Blazic.
 
-<!--
-**mblazic/mblazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some interesting facts about me:
+- 🎓 Red Hat Certified Engineer (RHCE) & Red Hat Certified System Administrator (RHCSA)
+<br>
 
-Here are some ideas to get you started:
+- 🔭 Currently working as a **Senior DevOps Engineer @ ReversingLabs, Zagreb**
+- 🔭 From 2022 - 2025 I led the DevOps team @ Cratis, architecting scalable, resilient infrastructure
+- 🔭 From 2018 - 2022 I worked as a Linux System Engineer @ Nimium, handling large-scale Kubernetes deployments and L3 support
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 You can ask me about GNU/Linux | System Administration | DevOps | SRE | Automation | Kubernetes | Infrastructure | Ansible
+- 👥 I mentor and support mid-level colleagues, and strongly believe in healthy team culture and collaborative problem solving
+
+📫 How to reach me: [@mablazic](https://hr.linkedin.com/in/mablazic)
